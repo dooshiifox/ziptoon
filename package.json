@@ -52,6 +52,7 @@
 		]
 	},
 	"dependencies": {
+		"@sveltejs/adapter-cloudflare": "^7.0.3",
 		"albtc": "^0.0.6"
 	}
 }
